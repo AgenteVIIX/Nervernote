@@ -22,6 +22,3 @@ Busca-se, neste trabalho, desenvolver uma aplicação de lista de notas, consist
  - Requisito 07: A aplicação deve manter os cadernos e notas/anotações, sendo possível alterá-las, visualizá-las e excluí-las.
  - Requisito 08: A visualização dos cadernos se dará no menu de cadernos, ficando disponível aos usuários os seus próprios cadernos.
  - Requisito 09: A visualização das notas/anotações se dará nas notas/anotações do caderno, ficando disponível aos usuários as notas/anotações do caderno selecionado anteriormente.
-
-### Vídeo:
- - Para um vídeo de maior qualidade, segue o link: https://drive.google.com/file/d/1x-ogIzZA3yWGj-5c5ZzPHPrExVA1642n/view?usp=sharing
